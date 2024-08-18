@@ -1,0 +1,12 @@
+:root {
+    --bg-green-soft: #a1080d33;
+}
+
+.bg-green-soft {
+    background-color: var(--bg-green-soft);
+}
+
+.w-200px {
+    max-width: 200px;
+    text-wrap: wrap;
+}
